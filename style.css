@@ -21,3 +21,25 @@ body {
   padding: 0;
 }
 
+#legend {
+  font-family: Arial, sans-serif;
+  background: #fff;
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  border-radius: 8px;
+}
+
+#legend h3 {
+  margin-top: 0;
+}
+
+#legend img {
+  vertical-align: middle;
+  min-width: 40px;
+}
+
+#legend .customerBox {
+  display: flex;
+  gap: 10px;
+}
